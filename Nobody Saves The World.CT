@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Starwands"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>NStW_x64.exe+936D60</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Money"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>NStW_x64.exe+936D5C</Address>
+      <Hotkeys>
+        <Hotkey Active="0">
+          <Action>Increase Value</Action>
+          <Keys/>
+          <Value>99999999999999999999999999999999999999999999999999999999999999999999999999999999999999</Value>
+          <ID>0</ID>
+          <ActivateSound>Activate</ActivateSound>
+          <DeactivateSound>Deactivate</DeactivateSound>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Level!!"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>NStW_x64.exe+9A76F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Upgrade Tokens"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>NStW_x64.exe+936D64</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
